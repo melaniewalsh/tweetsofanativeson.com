@@ -9,7 +9,7 @@ layout: null
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 18px;
-  color: #404040;
+  color: {{ site.body-col }};
   position: relative;
   background-color: {{ site.page-col }};
   {% if site.page-img %}
@@ -193,8 +193,8 @@ img {
 
 @media only screen and (min-width: 768px) {
   .navbar-custom .avatar-container {
-    width: 100px;
-    margin-top: -50px;
+    width: 150px;
+    margin-top: -75px;
   }
 
   .navbar-custom .avatar-container  .avatar-img-border {
@@ -523,7 +523,7 @@ footer .theme-by {
     padding: 150px 0;
   }
   .intro-header .page-heading h1 {
-    font-size: 80px;
+    font-size: 50px;
   }
   .intro-header .post-heading h1 {
     font-size: 50px;
@@ -774,4 +774,10 @@ td.gutter {
   color: #808080;
   font-style: italic;
   font-size: 16px;
+}
+
+div.myTableauViz {
+width: 950px;
+margin-left: -150px ;
+
 }
