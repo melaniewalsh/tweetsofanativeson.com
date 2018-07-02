@@ -435,6 +435,7 @@ footer .theme-by {
 .intro-header {
   margin: 80px 0 20px;
   position: relative;
+
 }
 .intro-header.big-img {
   background: no-repeat center center;
@@ -469,11 +470,10 @@ footer .theme-by {
   text-shadow: 1px 1px 3px #000;
 }
 .intro-header .page-heading h1 {
-  margin-top: 0;
-  font-size: 50px;
+  margin-top: 50px;
+  font-size: 0px;
 }
 .intro-header .post-heading h1 {
-  margin-top: 0;
   font-size: 35px;
 }
 .intro-header .page-heading .page-subheading,
@@ -780,4 +780,8 @@ div.myTableauViz {
 width: 950px;
 margin-left: -150px ;
 
+}
+
+twitterwidget::shadow .EmbeddedTweet {
+    margin-bottom: 200px
 }
