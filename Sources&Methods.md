@@ -1,14 +1,14 @@
 ---
 layout: page
-title: 'Datasets & Methods'
+title: 'Sources & Methods'
 subtitle:
 ---
 
-## Datasets
+## Data
 
 ---
 
-The dataset used in #BlackLivesMatter-Baldwin was first purchased from Twitter by Deen Freelon, Charlton D. McIlwain, and Meredith D. Clark for ["Beyond the hashtags: #Ferguson, #Blacklivesmatter, and the online struggle for offline justice"](http://cmsimpact.org/resource/beyond-hashtags-ferguson-blacklivesmatter-online-struggle-offline-justice/). Freelon, et al. purchased **40,815,975 tweets** that were published between **June 1, 2014 and May 31, 2015** that matched **45 keywords**---the words or hashtags #BlackLivesMatter, #Ferguson, or the names of 20 other black individuals that were killed by the police during this year. These researchers then generously [shared the tweet IDs for this dataset for free online](http://dfreelon.org/2017/01/03/beyond-the-hashtags-twitter-data/).
+The data set used in #BlackLivesMatter-Baldwin was first purchased from Twitter by Deen Freelon, Charlton D. McIlwain, and Meredith D. Clark for ["Beyond the hashtags: #Ferguson, #Blacklivesmatter, and the online struggle for offline justice"](http://cmsimpact.org/resource/beyond-hashtags-ferguson-blacklivesmatter-online-struggle-offline-justice/). Freelon, et al. purchased **40,815,975 tweets** that were published between **June 1, 2014 and May 31, 2015** that matched **45 keywords**---the words or hashtags #BlackLivesMatter, #Ferguson, or the names of 20 other black individuals that were killed by the police during this year. These researchers then generously [shared the tweet IDs for this dataset for free online](http://dfreelon.org/2017/01/03/beyond-the-hashtags-twitter-data/).
 
 ## Methods
 

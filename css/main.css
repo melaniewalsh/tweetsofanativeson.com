@@ -169,7 +169,7 @@ img {
 .navbar-custom .avatar-container {
   position: absolute;
   left: 50%;
-  width: 50px;
+  width: 100px;
   margin-top: -25px;
 }
 .navbar-custom .avatar-container  .avatar-img-border {
@@ -193,8 +193,8 @@ img {
 
 @media only screen and (min-width: 768px) {
   .navbar-custom .avatar-container {
-    width: 150px;
-    margin-top: -75px;
+    width: 180px;  /* --- adjust avatar size and spacing --- */
+    margin-top: -62px;
   }
 
   .navbar-custom .avatar-container  .avatar-img-border {
@@ -470,8 +470,9 @@ footer .theme-by {
   text-shadow: 1px 1px 3px #000;
 }
 .intro-header .page-heading h1 {
-  margin-top: 50px;
+  margin-top: 85px;  /* --- adjust main title size and spacing --- */
   font-size: 0px;
+  margin-bottom: -10px;
 }
 .intro-header .post-heading h1 {
   font-size: 35px;
@@ -779,9 +780,10 @@ td.gutter {
 div.myTableauViz {
 width: 950px;
 margin-left: -150px ;
+border: none;
 
 }
 
-twitterwidget::shadow .EmbeddedTweet {
-    margin-bottom: 200px
+.bullets {
+    display: inline-block;
 }

@@ -17,20 +17,22 @@ baseurl: ""
 title: Tweets of a Native Son
 
 # Short description of your site
-description: Though civil rights literary icon James Baldwin did not live to see the internet age, today his words, voice, and visage are recirculated far and wide across it. Explore Baldwin's 21st-century digital life through interactive data visualizations of '#BlackLivesMatter' tweets, YouTube videos, library circulation data, and more.
+description: Though civil rights literary icon James Baldwin did not live to see the internet, today his words, voice, and visage are recirculated far and wide across it. Explore Baldwin's 21st-century digital life through interactive data visualizations of '#BlackLivesMatter' tweets, YouTube videos, library circulation data, and more.
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  Data Visualizations:
-    - '#BlackLivesMatter-Baldwin': BlackLivesMatter-Baldwin
-  Datasets & Methods:
-    - Datasets & Methods: Datasets&Methods
+  Data Vizualizations:
+    - '#BlackLivesMatter': BlackLivesMatter-Baldwin
+  Publications:
+    - Publications: Publications
+  Sources & Methods:
+    - Sources & Methods: Sources&Methods
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/baldwin-logo2.jpg"
+avatar: "/img/tweetsofanativeson-logo.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -84,7 +86,7 @@ social-network-links:
 #  email: "someone@example.com"
   #facebook: daattali
 #  github: daattali
-#  twitter: daattali
+  twitter: TweetsNativeSon
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
@@ -101,14 +103,14 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  #twitter: true
+  twitter: true
   #facebook: true
   #google: false
   #linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "tweetsofanativeson.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "www.tweetsofanativeson.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
