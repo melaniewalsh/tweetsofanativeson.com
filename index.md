@@ -29,7 +29,7 @@ Though civil rights literary icon **James Baldwin**, who died in 1987, never liv
 
 The two illustrations pictured above---designed by John Ira Jennings and Ronald Wimberly, respectively---were both tweeted by activist [Deray McKesson](https://twitter.com/deray) in 2015. They feature two slightly different Baldwin quotations, and two slightly different imaginations of Baldwin, that were popular in 2014-15 and that remain popular today:
 
-On the left, a loud, red, street-art Baldwin with a bouquet of Black Power-style fists bursting from his mind: "To be a **black +** conscious is to **live** in a **constant state of** rage **!**" On the right, a contemplative, blue, Pop-Arty Baldwin: "To be a **Negro in this country** and to be **relatively** conscious is to be in a rage **almost all the time**."
+On the left, a loud, red, street-art Baldwin with a bouquet of Black Power-style fists bursting from his mind: "To be **black +** conscious is to **live** in a **constant state of** rage **!**" On the right, a contemplative, blue, Pop-Arty Baldwin: "To be a **Negro in this country** and to be **relatively** conscious is to be in a rage **almost all the time**."
 
 These two facing figures represent the many powerful, divergent reimaginations of Baldwin that are captured on this website: What do the differences between these two illustrations and quotations mean?  Where did these quotations come from? Why were they so popular? Which other Baldwin quotations, from which Baldwin works, have gone similarly viral? **Why, above all, does James Baldwin matter to so many people today**?
 
