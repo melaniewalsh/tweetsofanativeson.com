@@ -40,5 +40,3 @@ Explore these questions and more through the *Tweets of a Native Son* [visualiza
 **This website is still growing and currently under construction. Stay tuned!**
 
 ---
-
-*The logo for this website was created from illustrations by John Ira Jennings and Ronald Wimberly.*
