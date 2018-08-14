@@ -25,6 +25,7 @@ description: Though civil rights literary icon James Baldwin did not live to see
 navbar-links:
   Data Vizualizations:
     - '#BlackLivesMatter': BlackLivesMatter-Baldwin
+    #- YouTube: YouTube
   Publications:
     - Publications: Publications
   Sources & Methods:
