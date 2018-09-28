@@ -1,0 +1,24 @@
+{
+  "name": "tweets-of-a-native-son",
+  "version": "1.0.0",
+  "description": "my npm materials",
+  "main": "index.js",
+  "dependencies": {
+    "d3-tip": "^0.9.1",
+    "tocbot": "^4.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melaniewalsh/tweetsofanativeson.com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melaniewalsh/tweetsofanativeson.com/issues"
+  },
+  "homepage": "https://github.com/melaniewalsh/tweetsofanativeson.com#readme"
+}

@@ -17,23 +17,24 @@ baseurl: ""
 title: Tweets of a Native Son
 
 # Short description of your site
-description: Though civil rights literary icon James Baldwin did not live to see the internet, today his words, voice, and visage are recirculated far and wide across it. Explore Baldwin's 21st-century digital life through interactive data visualizations of '#BlackLivesMatter' tweets, YouTube videos, library circulation data, and more.
+description: Explore James Baldwin's 21st-century digital afterlives through interactive data visualizations---BlackLivesMatter tweets, YouTube videos, library circulation data, and more.
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  Data Vizualizations:
-    - '#BlackLivesMatter': BlackLivesMatter-Baldwin
-    #- YouTube: YouTube
+  Data Viz:
+    - '#Black Lives Matter': BlackLivesMatter-Baldwin
+    - YouTube: YouTube
+    - Seattle Public Library: Seattle
   Publications:
     - Publications: Publications
-  Sources & Methods:
-    - Sources & Methods: Sources&Methods
+  Sources:
+    - Sources & Methods: Sources
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/my-baldwin-logo-simple.png"
+avatar: "/img/baldwin-logo-no-background.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -116,7 +117,7 @@ url-pretty: "www.tweetsofanativeson.com"  # eg. "deanattali.com/beautiful-jekyll
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-86905362-2"
 
 # Google Tag Manager ID
 #gtm: ""
@@ -251,6 +252,7 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-babel
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189

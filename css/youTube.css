@@ -1,0 +1,44 @@
+
+  .bar {
+    fill: black;
+  }
+  .bar.is-selected
+  {
+    fill: red;
+  }
+
+  .bar:hover {
+    fill: red;
+
+  }
+  tooltip {
+    position: absolute;
+
+  }
+  p#views,
+  p#title
+  {
+    text-align: center;
+
+  }
+
+  text{
+
+  }
+
+  #player{
+    display: block;
+    margin: 0 auto;
+  }
+
+div.tooltip {
+  color: white;
+  position: absolute;
+  text-align: center;
+  padding: 2px;
+  font-family: 'Lora', 'Times New Roman', serif;
+  background: rgba(0,0,0,.8);
+  border: 2px solid black;
+  pointer-events: none;
+  display:inline-block;
+}

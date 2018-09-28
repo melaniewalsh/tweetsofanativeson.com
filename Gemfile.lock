@@ -8,6 +8,10 @@ GEM
       tzinfo (~> 1.1)
     addressable (2.5.2)
       public_suffix (>= 2.0.2, < 4.0)
+    babel-source (5.8.35)
+    babel-transpiler (0.7.0)
+      babel-source (>= 4.0, < 6)
+      execjs (~> 2.0)
     coffee-script (2.4.1)
       coffee-script-source
       execjs
@@ -89,6 +93,8 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-avatar (0.5.0)
       jekyll (~> 3.0)
+    jekyll-babel (1.1.0)
+      babel-transpiler
     jekyll-coffeescript (1.0.2)
       coffee-script (~> 2.2)
       coffee-script-source (~> 1.11.1)
@@ -219,7 +225,8 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (= 163)
+  jekyll-babel
   jekyll-paginate
 
 BUNDLED WITH
-   1.16.1
+   1.16.2

@@ -53,6 +53,8 @@ hr.small {
 @media only screen and (min-width: 768px) {
   .main-content {
     padding-top: 130px;
+    padding-left: env(safe-area-inset-left);
+    padding-right: env(safe-area-inset-right);
   }
 }
 
@@ -169,8 +171,8 @@ img {
 .navbar-custom .avatar-container {
   position: absolute;
   left: 50%;
-  width: 100px;
-  margin-top: -25px;
+  width: 110px; /* --- adjust avatar size and spacing for mobile --- */
+  margin-top: 5px;
 }
 .navbar-custom .avatar-container  .avatar-img-border {
   width: 100%;
@@ -208,6 +210,10 @@ img {
     width: 100%;
   }
 }
+.container-fluid  {
+	  padding-left: max(15px, env(safe-area-inset-left));
+	  padding-right: max(15px, env(safe-area-inset-right));
+	}
 
 /* Multi-level navigation links */
 .navbar-custom .nav .navlinks-container {
@@ -484,7 +490,7 @@ footer .theme-by {
   display: block;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 300;
-  margin: 10px 0 0;
+  margin: 10px -10px -20px;
 }
 .intro-header .post-heading .post-subheading {
   margin-bottom: 20px;
@@ -778,12 +784,41 @@ td.gutter {
 }
 
 div.myTableauViz {
-width: 950px;
-margin-left: -150px ;
+height: 300px;
+width: 100%;
 border: none;
 
 }
 
 .bullets {
     display: inline-block;
+}
+
+hr#intro {
+  max-width: 100%;
+  margin: 15px auto;
+  border-width: 4px;
+  border-color: inherit;
+  border-radius: 3px;
+}
+nav[data-toggle='toc'] {
+  margin-top: 30px;
+}
+
+/* small screens */
+@media (max-width: 768px) {
+  /* override the Affix plugin so that the navigation isn't sticky */
+  nav.affix[data-toggle='toc'] {
+    position: static;
+  }
+
+  /* PICK ONE */
+  /* don't expand nested items, which pushes down the rest of the page when navigating */
+  /* nav[data-toggle='toc'] .nav .active .nav {
+  //  display: none;
+  }
+  /* alternatively, if you *do* want the second-level navigation to be shown (as seen on this page on mobile), use this */
+  nav[data-toggle='toc'] .nav .nav {
+    display: block;
+  }
 }
