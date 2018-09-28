@@ -221,4 +221,4 @@ It's a big dashboard, so I recommend exploring it full-screen, which you can do 
 </div>
  <script type='text/javascript'>                    var divElement = document.getElementById('viz1537926390398');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height='1600px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
  
-*Footnotes
+**Footnotes**
