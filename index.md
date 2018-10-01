@@ -7,7 +7,6 @@ bigimg:
 #  - "/img/big-imgs/rage-quote.jpg" : "Ronald Wimberly"
 #  - "/img/big-imgs/grouse-grind.jpeg" : "Vancouver, Canada (2014)"
 #  - "/img/big-imgs/hawaii1.jpeg" : "Kauai, HI, USA (2014)"
-share-img: "/img/baldwin-logo-black-background.png"
 
 ---
 <a class="twitter-grid" data-chrome="nofooter noborders transparent noheader" data-height="500" href="https://twitter.com/mellymeldubs/timelines/1039223114733953032?ref_src=twsrc%5Etfw">Tweets of a Native Son</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

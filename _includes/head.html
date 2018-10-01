@@ -108,10 +108,10 @@
   {% elsif page.subtitle %}
   <meta name="twitter:description" content="{{ page.subtitle }}">
   {% else %}
-  <meta name="twitter:description" content="{{ page.content | strip_html | xml_escape | truncatewords: 100 }}">
+  <meta name="twitter:description" content="{{ page.content | strip_html | xml_escape | truncatewords: 200 }}">
   {% endif %}
 
-  <meta name="twitter:image" content="/img/baldwin-logo-black-background.png" />
+  <meta name="twitter:image" content="/baldwin-logo-black-background.png" />
 
 
 
