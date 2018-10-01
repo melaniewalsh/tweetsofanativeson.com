@@ -108,12 +108,14 @@
   {% elsif page.subtitle %}
   <meta name="twitter:description" content="{{ page.subtitle }}">
   {% else %}
-  <meta name="twitter:description" content="{{ page.content | strip_html | xml_escape | truncatewords: 200 }}">
+  <meta name="twitter:description" content="{{ page.content | strip_html | xml_escape | truncatewords: 50 }}">
   {% endif %}
 
-  <meta name="twitter:image" content="/baldwin-logo-black-background.png" />
-
-
+  {% if page.share-img %}
+  <meta name="twitter:image" content="{{ page.share-img }}" />
+  {% elsif site.avatar %}
+  <meta name="twitter:image" content="{{ site.url }}{{ site.avatar }}" />
+  {% endif %}
 
   {% if site.matomo %}
   {% include matomo.html %}
