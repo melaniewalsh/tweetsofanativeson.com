@@ -107,7 +107,8 @@ d3.csv("/baldwin_youtube_videos_september.csv").then(function(data) {
       div
         .html('#' + d.Rank + ' ' + d.Title + '<br/>' + formatMil(d.viewCount) + 'views')
         .style('left', d3.event.pageX - 200 + 'px')
-        .style('top', d3.event.pageY - 150  + 'px');
+        .style('top', d3.event.pageY - 150  + 'px')
+        ;
     });
 
     const title = g.append("text")

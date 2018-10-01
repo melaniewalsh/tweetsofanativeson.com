@@ -17,7 +17,7 @@ baseurl: ""
 title: Tweets of a Native Son
 
 # Short description of your site
-description: Explore James Baldwin's 21st-century digital afterlives through interactive data visualizations---BlackLivesMatter tweets, YouTube videos, library circulation data, and more.
+description: Explore James Baldwin's 21st-century digital afterlives through interactive data visualizations---#BlackLivesMatter tweets, YouTube videos, library circulation data, and more.
 
 # --- Navigation bar options --- #
 
@@ -26,7 +26,7 @@ navbar-links:
   Data Viz:
     - '#Black Lives Matter': BlackLivesMatter-Baldwin
     - YouTube: YouTube
-    - Seattle Public Library: Seattle
+    - Seattle Public Library: Seattle-Public-Library
   Publications:
     - Publications: Publications
   Sources:

@@ -1,0 +1,36 @@
+---
+layout: page
+title: Borrowing Baldwin From the Seattle Public Library
+subtitle:
+bigimg:
+  - "/img/Seattle-Public.jpg"
+#  - "/img/big-imgs/Birmingham.png"
+#  - "/img/big-imgs/Race.png"
+#  - "/img/big-imgs/Negro.png"
+
+---
+
+
+
+The city of Seattle has chosen to make its [data publicly available](https://data.seattle.gov/), including circulation data from [the Seattle Public Library](https://data.seattle.gov/Community/Checkouts-by-Title/tmmm-ytt6) going back to April 2005.
+
+The following visualizations are based on circulation data for texts by or about James Baldwin that were checked out from the Seattle Public Library between April 2005 and January 2018. You can explore and export this data set---updated to the present---through the City of Seattle [Open Data portal](https://data.seattle.gov/Community/James-Baldwin-Checkouts/7fnb-57ak/data). 
+
+<div class='tableauPlaceholder' id='viz1538419824812' style='position: relative'><noscript><a href='#'><img alt='Total Timeline ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ba&#47;Baldwin-Seattle-Public-Library&#47;TotalTimeline&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Baldwin-Seattle-Public-Library&#47;TotalTimeline' /><param name='tabs' value='no' /><param name='toolbar' value='no' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ba&#47;Baldwin-Seattle-Public-Library&#47;TotalTimeline&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object>
+</div>               
+<script type='text/javascript'>                    var divElement = document.getElementById('viz1538419824812');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='725px';vizElement.style.height='400px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+
+The above timeline shows the total number of texts by or about James Baldwin that were checked out of the Seattle Public Library between April 2005 and January 2018. The number of Baldwin checkouts slowly increases from around 2013 to 2016, and then sharply rises in 2017.
+
+When you break down the total number of Baldwin checkouts by individual title, it becomes clear that Raoul Peck's Oscar-nominated documentary *I Am Not Your Negro* significantly contributes to this steep climb. The following visualization displays the top six Baldwin checkouts from this time period, as well as a table that displays distribution by material type. You can click on any title to see it highlighted against the larger trends.
+<div class='tableauPlaceholder' id='viz1538418812532' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ba&#47;Baldwin-data-experiment&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Baldwin-data-experiment&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='no' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ba&#47;Baldwin-data-experiment&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object>
+</div>                
+<script type='text/javascript'>                    var divElement = document.getElementById('viz1538418812532');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height='1000px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+
+
+Because the popularity of *I Am Not Your Negro* is so significant, the next visualization offers a timeline with Raoul Peck's documentary left out and with Baldwin's primary texts expanded. You can again click on any title to see it highlighted.
+<div class='tableauPlaceholder' id='viz1538420050435' style='position: relative'><noscript><a href='#'><img alt='Top 12 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ba&#47;Baldwin-Seattle-Public-Library&#47;Top12&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Baldwin-Seattle-Public-Library&#47;Top12' /><param name='tabs' value='no' /><param name='toolbar' value='no' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ba&#47;Baldwin-Seattle-Public-Library&#47;Top12&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object>
+</div>              
+<script type='text/javascript'>                    var divElement = document.getElementById('viz1538420050435');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='725px';vizElement.style.height='1300px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+
+The above timeline now shows the top twelve Baldwin checkouts from 2005-2018. From this perspective, it's easier to see that Baldwin's *The Fire Next Time* (1963) also experiences a big jump in circulation that starts around mid- to late-2014, coinciding with the Ferguson protests, the nationwide development of the #BlackLivesMatter movement, as well as the publication of Ta-Nehisi Coates's *Bewteen the World and Me* in July 2015, which was inspired by and modeled after *The Fire Next Time*.

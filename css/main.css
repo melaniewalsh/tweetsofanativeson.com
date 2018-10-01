@@ -115,6 +115,7 @@ img {
   background-image: url({{ site.navbar-img }});
   background-attachment: fixed;
   {% endif %}
+  
 }
 
 .navbar-custom .nav li a {
