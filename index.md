@@ -3,6 +3,7 @@ layout: page
 title: Tweets of a Native Son
 subtitle: Though civil rights literary icon James Baldwin died in 1987, today, on the internet, he seems as alive as ever
 meta-description: Explore James Baldwin's 21st-century digital afterlives through interactive data visualizations---#BlackLivesMatter tweets, YouTube videos, library circulation data, and more.
+description: Explore James Baldwin's 21st-century digital afterlives through interactive data visualizations---#BlackLivesMatter tweets, YouTube videos, library circulation data, and more.
 bigimg:
 #  - "/img/big-imgs/rage-quote.jpg" : "Ronald Wimberly"
 #  - "/img/big-imgs/grouse-grind.jpeg" : "Vancouver, Canada (2014)"
