@@ -50,3 +50,9 @@ I also combined twarc utilities and jq to search for top retweets, hashtags, use
 To discover text that was repeated, though not directly retweeted, across many tweets, I began by using a k-means clustering algorithm from the Python library Scikit-Learn that was based on [a script from Amir Salihefendic](https://gist.github.com/amix/ef7ed11b0abab37c94ad). I used these results to identify key, distinguishing phrases that could programmatically categorize the tweets.
 
 Becuase the size of my data set was small enough, I then manually tagged the tweets and added other bibliographic information, such as the titles and publication dates of the quotation source texts.
+
+## Website Logo
+
+___
+
+This website's logo is a transformation of a photo by [Mark B. Anstendig](http://www.anstendig.com/Portrait%20Series/Baldwin/baldwin_index.html).
