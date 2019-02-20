@@ -822,4 +822,31 @@ nav[data-toggle='toc'] {
   nav[data-toggle='toc'] .nav .nav {
     display: block;
   }
+  
 }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+figure {
+  text-align: center;
+  text-indent: 0;
+  width: 49%;
+  display: inline-block;
+  font-size: 1em;
+
+}
+
+figure.bigger {
+  text-align: center;
+  text-indent: 0;
+  width: 49%;
+  display: inline-block;
+  position: relative;
+  top: -60px;
+}
+
