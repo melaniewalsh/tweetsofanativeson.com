@@ -169,7 +169,7 @@ It was especially ironic that Huey Newton, a Black Panther, turned to these word
 
 [^6]: I discuss this quotation and Baldwin's tumultuous relationship with the Black Panthers more in my essay. See also Douglas Field, [“Looking for Jimmy Baldwin: Sex, Privacy, and Black Nationalist Fervor."](https://muse.jhu.edu/article/168497)
 
-## First Publication Date
+### First Publication Date
 
 Another pattern emerges when you look at the most quoted Baldwin source texts, which is that they were all published during the 1960s and early 1970s---despite the fact that Baldwin published throughout the 1950s (*Giovanni's Room*, *Notes of a Native Son*) and continued to publish in the late 1970s and 1980s (*Just Above My Head*, *The Evidence of Things Not Seen*).
 
@@ -183,7 +183,7 @@ Another pattern emerges when you look at the most quoted Baldwin source texts, w
  
 This was a period, in other words, when Baldwin was carefully crafting his language for mass media audiences, often embedding simple, clear, and seemingly autonomous bits of rhetoric within it. During these 1960s essays, speeches, radio interviews, and television appearances, Baldwin frequently addressed subjects like race and police violence head-on---["We live in "a civilization which has always glorified violence--unless the Negro had the gun"](https://twitter.com/joseiswriting/status/537136943318831105?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E537136943318831105&ref_url=http%3A%2F%2Flocalhost%3A4000%2FBlackLivesMatter-Baldwin%2F). But Baldwin also frequently discussed less explicitly political subjects, like literary fiction, with a level of abstraction and rhetorical concision such that it could be adapted and applied to political protest---[“Not everything that is faced can be changed. But nothing can be changed until it is faced.”](https://twitter.com/joseiswriting/status/540282192966844416) This is a body of material that I think think was (and is) ripe for remediation onto new media platforms.
  
-## Genre and Medium
+### Genre and Medium
 
 The significance of the many different genres and media that Baldwin was creatively involved in during his career can also be seen when you break down the quoted source texts by type:
  <div class='tableauPlaceholder' id='viz1537921893755' style='position: relative'><noscript><a href='#'><img alt='Source Type ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bl&#47;BlackLivesMatter-Baldwin-Top-Tweets&#47;SourceType&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='BlackLivesMatter-Baldwin-Top-Tweets&#47;SourceType' /><param name='tabs' value='no' /><param name='toolbar' value='no' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bl&#47;BlackLivesMatter-Baldwin-Top-Tweets&#47;SourceType&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object>
@@ -192,7 +192,7 @@ The significance of the many different genres and media that Baldwin was creativ
   
   The above chart displays the source type of the Baldwin source texts that were quoted in Ferguson and Black Lives Matter tweets. Though Baldwin considered himself, first and foremost, a *literary* writer, and though Baldwin often claimed that his public speaking and mass media celebrity were distractions from his literary production, his fiction and poetry were hardly quoted from at all.
 
-## Republication and Collection Date
+### Republication and Collection Date
   
 Because this story is so much about how people encounter and share texts at different moments in time, it's also important to consider when Baldwin's texts were republished and collected, especially because many of his major works, such as *Notes of a Native Son* and *The Fire Next Time*, were collections of essays that had been published earlier.
 
