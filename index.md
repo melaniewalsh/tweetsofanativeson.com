@@ -20,3 +20,7 @@ This website features a series of data visualizations about James Baldwin's 21st
 The two facing Baldwins pictured above---designed by [John Ira Jennings](https://twitter.com/JIJennings) and [Ronald Wimberly](https://www.instagram.com/ronaldwimberly/), respectively---represent the many powerful, divergent reimaginations of Baldwin captured here. On the left, a loud, red, street-art Baldwin with a bouquet of Black Power-style fists bursting from his mind: "To be **black +** conscious is to **live** in a **constant state of** rage<b>!</b>" On the right, a contemplative, blue, Pop-Arty Baldwin: "To be a **Negro in this country** and to be **relatively** conscious is to be in a rage **almost all the time**."
 
 What do these differences mean? Where did these quotations come from? Why are they so popular? Why, above all, does James Baldwin matter to so many people today? Explore these questions and more through the *Tweets of a Native Son* [visualizations](BlackLivesMatter-Baldwin), [publications](Publications), and [resources](Sources).
+
+## 5-Minute Website Walk-Through
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/dLk2lrYWFos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
