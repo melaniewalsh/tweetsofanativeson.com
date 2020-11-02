@@ -23,4 +23,4 @@ What do these differences mean? Where did these quotations come from? Why are th
 
 ## 5-Minute Website Walk-Through
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/dLk2lrYWFos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="90%" height="400" src="https://www.youtube.com/embed/dLk2lrYWFos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
