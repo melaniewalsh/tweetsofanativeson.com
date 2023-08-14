@@ -2,6 +2,7 @@
 
 # url is the full website URL
 # baseurl is the website's URL without the hostname
+remote_theme: daattali/beautiful-jekyll@6.0.1
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: "http://tweetsofanativeson.com"
@@ -26,7 +27,7 @@ navbar-links:
   Data Viz:
     - '#Black Lives Matter': BlackLivesMatter-Baldwin
     - YouTube: YouTube
-    - Seattle Public Library: Seattle-Public-Library
+    - Seattle Public Library Checkouts: Seattle-Public-Library-2023
   Publications:
     - Publications: Publications
   Sources:
@@ -252,7 +253,7 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-babel
+  - jekyll-remote-theme
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
